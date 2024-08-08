@@ -2,7 +2,7 @@
 title: 导语
 description: 激活TDP社群，传播正能量，并帮助用户解答在使用腾讯云过程中的问题
 published: 1
-date: 2024-07-13T04:18:04.987Z
+date: 2024-08-08T14:02:09.614Z
 tags: king, 熊, 若海
 editor: markdown
 dateCreated: 2024-07-04T14:15:23.322Z
@@ -71,4 +71,4 @@ lvan、若海
 熊、相柳、King、小泽、若羽
 
 - 共创编辑
-tan90º、待补充...
+小邵、tan90º、待补充...
