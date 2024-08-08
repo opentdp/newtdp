@@ -2,7 +2,7 @@
 title: 导语
 description: 激活TDP社群，传播正能量，并帮助用户解答在使用腾讯云过程中的问题
 published: 1
-date: 2024-08-08T14:02:09.614Z
+date: 2024-08-08T14:04:44.291Z
 tags: king, 熊, 若海
 editor: markdown
 dateCreated: 2024-07-04T14:15:23.322Z
@@ -64,7 +64,7 @@ dateCreated: 2024-07-04T14:15:23.322Z
 - 主编
 lvan、若海
 
-- 策划
+- 总策划
 相柳
 
 - 责任编辑
